@@ -1,1 +1,49 @@
+STUDENT ID - SBAP0029608
+STUDENT NAME - M Monika
+GROUP - B.Sc(computer science)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/qj0yhrrz5hh1wbe87d
 
+PROJECT NAME - medical inventory management
+ORG USERNAME - monishyam2623578@agentforce.com
+PASSWORD - Gayatri@123
+
+STUDENT ID - SBAP0029579
+STUDENT NAME - Duvvuru Lakshmi
+GROUP - B.Sc(computer science)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/wedkhf1qjz2m8ij01t
+
+PROJECT NAME - medical inventory management
+ORG USERNAME - renukaduvvuru2443@agentforce.com
+PASSWORD - Gayatri@123
+
+STUDENT ID - SBAP0029616
+STUDENT NAME - Navarasala Nandini
+GROUP - B.Sc(computer science)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/z41ddz3r6xtshwzc5v
+
+PROJECT NAME - medical inventory management
+ORG USERNAME - rnavarasalanandini160@agentforce.com
+PASSWORD - Gayatri@123
+
+STUDENT ID - SBAP0029570
+STUDENT NAME - Amuri Harshitha
+GROUP - B.Sc(computer science)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/wkzsss5hlrfel4939r
+
+PROJECT NAME - medical inventory management
+ORG USERNAME - luckyharshi143l673@agentforce.com
+PASSWORD - Gayatri@123
+
+STUDENT ID - SBAP0029594
+STUDENT NAME - Kaniki Kaveri
+GROUP - B.Sc(computer science)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/xntpvtavp5tvo3dyfp
+
+PROJECT NAME - medical inventory management
+ORG USERNAME - kaverikaniki522@agentforce.com
+PASSWORD - Gayatri@123
